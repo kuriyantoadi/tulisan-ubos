@@ -1,0 +1,17 @@
+Most of this chapter, and indeed most of the book, discusses Knoppix in
+terms of its default KDE desktop. However, Knoppix includes a number of
+other desktop environments on both the CD and DVD that provide differ-
+ent approaches to desktop management. In this hack, I will cover some of
+the more prominent desktop environments that Knoppix has available and
+how to use them.
+As discussed in [Hack #4] , the desktop cheat code allows you to choose which
+desktop for Knoppix to use. For instance, to boot into Fluxbox, type the fol-
+lowing at the boot: prompt:
+knoppix desktop=fluxbox
+If you have already booted Knoppix, you can change the desktop without
+rebooting. Just click K menu ➝ KNOPPIX ➝ Choose / Restart Knoppix
+Desktop and choose the desktop to use from the window that appears.
+While all of the desktop environments I will mention are available on the
+DVD, only a few were able to fit on the CD, so I will first talk about the
+desktop alternatives for the CD, and then follow up with the choices for the
+DVD.
